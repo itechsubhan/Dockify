@@ -155,5 +155,5 @@ For questions or feedback, please reach out through GitHub issues or contact the
 ---
 
 <p align="center">
-  Made with ❤️ by the Dockify Team
+  Made with ❤️ by the Dockify Team ( Subhan )
 </p>
